@@ -1,0 +1,5 @@
+
+CREATE TABLE Patterns(
+	id INT AUTO_INCREMENT NOT NULL,
+    PRIMARY KEY(id)
+);
